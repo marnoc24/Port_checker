@@ -42,4 +42,3 @@ Lightweight TCP port scanner with a simple graphical user interface (GUI) writte
 ## Notes
 - Dear PyGui is required for the GUI; without it the application will not run.
 - Consider adding command-line mode or unit tests under a `tests/` directory for headless testing.
-- Add a LICENSE file (e.g., MIT) if you plan to publish the project.
