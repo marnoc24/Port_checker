@@ -1,0 +1,3 @@
+# Requirements for Port_Checker
+# Requires Python 3.10+
+dearpygui>=1.10.0
